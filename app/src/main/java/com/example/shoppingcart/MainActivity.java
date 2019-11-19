@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
                 Intent intent=new Intent(getApplicationContext(),Menu.class);
                 startActivity(intent);
                 System.out.println("this is the change");
-                System.out.println("this is the change")
+                System.out.println("this is
             }
         });
     }
